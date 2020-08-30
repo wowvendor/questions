@@ -1,5 +1,2 @@
 ###### **Что выведет данный php код?**
-
-```
-    echo "x" <=> "y";
-```
+![test 6](https://wowvendor.com/destiny2/tests/6.png)
